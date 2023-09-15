@@ -44,11 +44,15 @@ The relationships between these entities are carefully defined to maintain data 
 
 - **Patient Management**: Easily record and update patient information, contact details e.t.c.
 
-- **Doctor Management**: Keep track of doctors including their qualifications and schedules.
+- **Doctor Management**: Keep track of doctors including their qualifications and schedules. The JSON format for the 'specialization' column are :
+    + {
+        specialty (VARCHAR(255),
+	      inducted (DATE)
+      }
 
 - **Appointment Scheduling**: Schedule and manage patient appointments with doctors.
 
-- **Medical Records**: Maintain detailed medical records, including diagnoses, treatments, and prescriptions. The column JSON format will be the following :
+- **Medical Records**: Maintain detailed medical records, including diagnoses, treatments, and prescriptions. The JSON format for the 'history' column will be the following :
     + {
         date (DATETIME)
           [
