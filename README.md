@@ -11,7 +11,7 @@ This repository contains a moderate hospital management database modeling projec
 ## Table of Contents
 
 - [Introduction](#Introduction)
-- [Database Schema](#DatabaseSchema)
+- [Database Schema](#Database-Schema)
 - [Features](#Features)
 - [Installation](#Installation)
 - [Usage](#usage)
