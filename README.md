@@ -46,8 +46,8 @@ The relationships between these entities are carefully defined to maintain data 
 
 - **Doctor Management**: Keep track of doctors including their qualifications and schedules. The JSON format for the 'specialization' column are :
     + {
-        specialty (VARCHAR(255),
-	      inducted (DATE)
+        specialty (VARCHAR(255)),
+	inducted (DATE)
       }
 
 - **Appointment Scheduling**: Schedule and manage patient appointments with doctors.
