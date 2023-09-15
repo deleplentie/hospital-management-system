@@ -1,8 +1,8 @@
-#                  ```````````````                                                                          ``````````````              #
-##                        0                                                                                        0                   ##
-###  -------------------------------------------------------------------------------------------------------------------------------  ###
+                 ```````````````                                                                          ``````````````              #
+##                            0 _ 0                                                                                       0_0                  ##
+   -------------------------------------------------------------------------------------------------------------------------------  ###
 ####                                                                                                                                 ####
-#####                                                  (==============================)                                             #####
+                                                   (==============================)                                             #####
 
   # Hospital Management System #
 
@@ -10,10 +10,10 @@ This repository contains a moderate hospital management database modeling projec
 
 ## Table of Contents
 
-- Introduction
-- Database Schema
-- Features
-- Installation
+- [Introduction](#Introduction)
+- [Database Schema](#Database Schema)
+- [Features](#Features)
+- [Installation](#Installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
