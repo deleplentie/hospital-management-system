@@ -88,7 +88,7 @@ Feel free to adapt the database schema and functionality to suit your hospital's
 
 ## Contributing
 
-Contributions to improve and expand this hospital database model are welcome. For details on how to contribute to this project, kindly send a message to (oladele_oladipo@hotmail.com).
+Contributions to improve and expand this hospital database model are welcome. For details on how to contribute to this project, kindly send a message to (Dev-del@hotmail.com).
 
 ## License
 
