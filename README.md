@@ -1,10 +1,4 @@
-                 ```````````````                                                                          ``````````````              #
-##                            0 _ 0                                                                                       0_0                  ##
-   -------------------------------------------------------------------------------------------------------------------------------  ###
-####                                                                                                                                 ####
-                                                   (==============================)                                             #####
-
-  # Hospital Management System #
+  									# Hospital Management System #
 
 This repository contains a moderate hospital management database modeling project aimed at efficiently managing and organizing stocks and healthcare data. A well-designed hospital database is crucial for streamlining administrative processes, patient care, and medical research. This is also designed to improve doctor-patient contact and allow doctors to access previous data for better treatment of current or similar cases.
 
